@@ -9,9 +9,9 @@ You'll learn how to use repositories like this throughout the semester.
 
 For now, go ahead and download the two programs we'll be using in this class:
 
-* Atom (text editor) [For Mac](https://atom.io) [For Other Platforms](https://github.com/atom/atom/releases/tag/v1.2.4)
+* Atom (text editor) [For Mac](https://atom.io) | [For Other Platforms](https://github.com/atom/atom/releases/tag/v1.2.4)
 
-* GitHub Desktop (aka the cat app) [For Mac](https://desktop.github.com) [For Windows](https://desktop.github.com)
+* GitHub Desktop (aka the cat app) [For Mac](https://desktop.github.com) | [For Windows](https://desktop.github.com)
 
 You should also have a browser on your computer. More than one is even better! A few we recommend are:
 
