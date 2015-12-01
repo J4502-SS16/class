@@ -13,6 +13,8 @@ For now, go ahead and download the two programs we'll be using in this class:
 
 * GitHub Desktop (aka the cat app) [For Mac](https://desktop.github.com) | [For Windows](https://desktop.github.com)
 
+* We'll also be using Slack to communicate. You can use it in a browser, or with a mobile app, but we also highly recommend the [desktop app](https://slack.com/apps). 
+
 You should also have a browser on your computer. More than one is even better! A few we recommend are:
 
 * [Safari](https://support.apple.com/en-us/HT204416)
